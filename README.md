@@ -74,7 +74,16 @@ Visit http://localhost:3000 to view the app in your browser 🌐
 
 - 📦 Backend APIs using Node.js + Express
 
-## 📄 License
-- This project is licensed under the MIT License – see the LICENSE file for details.
+## 🤝 Contribution
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the Issues or submit a pull request.  
+
+## 📬 Contact
+Created by **Anusha**  
+📧 Email: [krianusha09@gmail.com](mailto:krianusha09@gmail.com)  
+🐙 GitHub: [Anusha-2024](https://github.com/Anusha-2024)  
+
+## License
+This project is licensed under the [MIT License](LICENSE)  
 
   
