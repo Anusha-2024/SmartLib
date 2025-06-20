@@ -20,13 +20,13 @@ Welcome to **SmartLib**, a modern, responsive, and feature-rich online platform 
 ## 🖼️Few Screenshots
 
 ### 🏠 Home Page  
-![Home Page](public/screenshots/screenshot1.png)
+![Home Page](https://github.com/Anusha-2024/SmartLib/blob/main/homepage.jpg?raw=true)
 
 ### 📖 Checkout Page  
-![Checkout Page](public/screenshots/screenshot2.png)
+![Checkout Page]()
 
 ### 💳 Payment Page  
-![Payment Page](public/screenshots/screenshot3.png)
+![Payment Page]()
 
 
 ---
@@ -35,7 +35,7 @@ Welcome to **SmartLib**, a modern, responsive, and feature-rich online platform 
 
 | Frontend     | Backend       | Database  | Styling       | State Management |
 |--------------|---------------|-----------|----------------|------------------|
-| React        | Node.js (Planned) | MySQL     | CSS, Tailwind (optional) | React Context API |
+| React        | Node.js  | MySQL     | CSS | React Context API |
 
 ---
 
