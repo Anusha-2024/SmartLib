@@ -23,10 +23,10 @@ Welcome to **SmartLib**, a modern, responsive, and feature-rich online platform 
 ![Home Page](https://github.com/Anusha-2024/SmartLib/blob/main/homepage.jpg?raw=true)
 
 ### 📖 Checkout Page  
-![Checkout Page]()
+![Checkout Page](https://github.com/Anusha-2024/SmartLib/blob/main/checkout.jpg?raw=true)
 
 ### 💳 Payment Page  
-![Payment Page]()
+![Payment Page](https://github.com/Anusha-2024/SmartLib/blob/main/payment.jpg?raw=true)
 
 
 ---
